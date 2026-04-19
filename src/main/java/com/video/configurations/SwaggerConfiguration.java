@@ -23,7 +23,7 @@ public class SwaggerConfiguration {
 				"API uses some external API (from Rapid API)\n through which you can download long videos or shorts of platforms like Youtube, Instagram and Facebook ");
 		Contact contact = new Contact();
 		contact.setName("Vedant Maheshwari");
-		contact.setUrl("https://github.com/JustGreenPanther98");
+		contact.setUrl("https://github.com/JustTheGreenPanther28");
 		contact.setEmail("zippyjese@gmail.com");
 		info.setContact(contact);
 
